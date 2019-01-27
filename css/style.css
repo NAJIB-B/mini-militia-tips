@@ -1,0 +1,110 @@
+header {
+    background-color:green;
+    color:black;
+   padding-top:30px;
+     padding-bottom:80px;
+	 padding-left:20px;
+   min-height:70px;
+   border-bottom:red 3px solid;
+   margin:auto;
+}
+
+header a{
+         color:rgb(0, 255, 0);;
+         font-size:16px;
+		 text-decoration:none;
+
+		 }
+		 header a:hover{
+		 color:white;
+		 }
+header ul{
+          padding-bottom:50px;
+          margin-right:0px;
+         }
+		 #hd:hover{
+		 color:gold
+
+
+		 }
+header li{
+          float:left;
+		  display:inline;
+		  padding: 0 20px 0 20px;
+         }
+header #nav{
+         float:center;
+		 position:absolute;
+		 left:550px;
+}
+header #hd{
+color:rgb(0, 255, 0);
+}
+
+}
+
+section {
+    width:350px;
+    float:left;
+    padding:10px;
+    font-size:24px;
+}
+.middle{
+  line-height: 2;
+  text-align: center;
+  padding: 50px 10px 100px 10px;
+}
+.pic1{
+
+
+}
+.pic2{
+  ;
+}
+.new{
+text-align: center;
+width: 50%;
+margin-left: 350px;
+}
+
+footer {
+    background-color:green;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;
+}
+.list{
+     background-color:skyblue;
+	 border:1px solid green;
+   background-image:url("file:///C:/Users/Muhammad%20najib/Documents/mini%20militia%20tips%20html/images/Screenshot_20180920-114012.jpg");
+
+}
+
+.tips{
+  text-align: center;
+
+}
+.tips:hover{
+  color: lightgreen;
+}
+.thep{
+
+  color: black;
+  font-size: 24px;
+}
+.thep:hover{
+  color: lightgreen;
+
+
+
+h1:hover{
+
+  color: lightgreen;
+}
+hr{
+border:dashed;
+border-color: #E4F9F5;
+
+
+}
